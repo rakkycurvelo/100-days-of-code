@@ -10,7 +10,7 @@
 
 ### Day 2: January 03, 2019 
 
-**Today's Progress**: Finished CSS Applied Visual Design on my Free Code Camp curriculum + update some CSS on a old project. 
+**Today's Progress**: Finished CSS Applied Visual Design on my Free Code Camp curriculum + update some CSS on an old project. 
 
 **Thoughts**: Had fun remembering why I started this old project as an assignment for my Msc. Also, find it curious how is possible to forget things that we code ourselves. One of my lecturers used to say and she's right: COMMENT YOUR CODE! 
 
