@@ -10,8 +10,16 @@
 
 ### Day 2: January 03, 2019 
 
-**Today's Progress**: Finished CSS Applied Visual Design on my Free Code Camp curriculum + update some CSS on an old project. 
+**Today's Progress**: Finished Applied Visual Design on my Free Code Camp profile + update some CSS on an old project. 
 
 **Thoughts**: Had fun remembering why I started this old project as an assignment for my Msc. Also, find it curious how is possible to forget things that we code ourselves. One of my lecturers used to say and she's right: COMMENT YOUR CODE! 
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [My Hero Project](https://github.com/rakkycurvelo/hero-project/tree/review1)
+
+### Day 3: January 04, 2019 
+
+**Today's Progress**: Finished Applied Accessibility on my Free Code Camp profile. 
+
+**Thoughts**: I haven't gone to bed yet, so it's still counting! =D - after a very confused and non-planned day, I've arrived home super late and still got the energy to do my one-hour coding. It was only some Free Code Camp stuff, but, still, I found it enough to not give up on it.  
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky)
