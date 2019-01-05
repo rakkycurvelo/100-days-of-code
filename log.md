@@ -23,3 +23,11 @@
 **Thoughts**: I haven't gone to bed yet, so it's still counting! =D - after a very confused and non-planned day, I've arrived home super late and still got the energy to do my one-hour coding. It was only some Free Code Camp stuff, but, still, I found it enough to not give up on it.  
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky)
+
+### Day 4: January 05, 2019 
+
+**Today's Progress**: Finished Responsible Design Principles and CSS Flexbox on my Free Code Camp profile. 
+
+**Thoughts**: This is another unusual day and I'm coding on my break from work (no, I'm not coding for work, so still following the rules). I'll do whatever it takes to keep going - also, to code for more time each day! 
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky)
