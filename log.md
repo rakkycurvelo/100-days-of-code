@@ -31,3 +31,11 @@
 **Thoughts**: This is another unusual day and I'm coding on my break from work (no, I'm not coding for work, so still following the rules). I'll do whatever it takes to keep going - also, to code for more time each day! 
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky)
+
+### Day 5: January 06, 2019 
+
+**Today's Progress**: Finished CSS Grids on my Free Code Camp profile. 
+
+**Thoughts**: I'm excited! Grids were a new thing that I've always tried to understand, failing miserably. Today, with the Free Code Camp challenges, things were way more smoothly than ever before. That's it: practice makes perfect.  
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky)
