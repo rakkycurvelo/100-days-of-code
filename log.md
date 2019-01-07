@@ -44,6 +44,6 @@
 
 **Today's Progress**: My first Code Camp Challenge!  
 
-**Thoughts**: Aaaah, a little tribute website! I confess I've spent more time that I should trying to find a way of putting images on my recent CodePen account, but, well, I'll put that all together soon!  
+**Thoughts**: Aaaah, a little tribute website! I confess I've spent more time than I should be trying to find a way of putting images on my recent CodePen account, but, well, I'll put that all together soon!  
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/pqKbvL)
