@@ -39,3 +39,11 @@
 **Thoughts**: I'm excited! Grids were a new thing that I've always tried to understand, failing miserably. Today, with the Free Code Camp challenges, things were way more smoothly than ever before. That's it: practice makes perfect.  
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky)
+
+### Day 6: January 07, 2019 
+
+**Today's Progress**: My first Code Camp Challenge!  
+
+**Thoughts**: Aaaah, a little tribute website! I confess I've spent more time that I should trying to find a way of putting images on my recent CodePen account, but, well, I'll put that all together soon!  
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/pqKbvL)
