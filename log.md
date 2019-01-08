@@ -47,3 +47,11 @@
 **Thoughts**: Aaaah, a little tribute website! I confess I've spent more time than I should be trying to find a way of putting images on my recent CodePen account, but, well, I'll put that all together soon!  
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/pqKbvL)
+
+### Day 7: January 08, 2019 
+
+**Today's Progress**: Finished my Tribute Project!   
+
+**Thoughts**: At the end, just having the images saved at my GitHub account is enought to use them at CodePen. Feeling silly for not having try it before (Flick, Dropbox and Google Drive didn't worked for me!). Anyways, I've finished my tribute project and that's it. Hoping to have more activities to show tomorrow.  
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/pqKbvL)
