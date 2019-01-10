@@ -55,3 +55,19 @@
 **Thoughts**: At the end, just having the images saved at my GitHub account is enought to use them at CodePen. Feeling silly for not having try it before (Flick, Dropbox and Google Drive didn't worked for me!). Anyways, I've finished my tribute project and that's it. Hoping to have more activities to show tomorrow.  
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/pqKbvL)
+
+### Day 8: January 09, 2019 
+
+**Today's Progress**: Finished my Survey Form Project!   
+
+**Thoughts**: Not as smoothly as I thought it would be. Let's see what's next.   
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/dwjryr)
+
+### Day 9: January 10, 2019 
+
+**Today's Progress**: Started my Product Landing Page 
+
+**Thoughts**: Back to my Survey Form, I've noticed that my autosaved was disable, which means that I've lost all my CSS for yesterday. Did it again and I'm happier with the final result. Then, I've started the HTML part for my Product Landing Page. I still don't know what product I'll put there, but, well, this is a decision for tomorrow. 
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV)
