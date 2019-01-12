@@ -78,4 +78,4 @@
 
 **Thoughts**: I've lost one day yesterday, cause work was insanelly stressful and I haven't got the streight to open my code editors. Today, I've worked more on the colors and design of my product landing page than in everything else, but I had a product idea and could execute that on my HTML. For tomorrow, no more skips and I'll be able to finish it. 
 
-**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky), [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV) and .[GitHub].(https://github.com/rakkycurvelo/product-landing-page). 
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky), [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV) and [GitHub](https://github.com/rakkycurvelo/product-landing-page). 
