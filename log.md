@@ -71,3 +71,11 @@
 **Thoughts**: Back to my Survey Form, I've noticed that my autosaved was disable, which means that I've lost all my CSS for yesterday. Did it again and I'm happier with the final result. Then, I've started the HTML part for my Product Landing Page. I still don't know what product I'll put there, but, well, this is a decision for tomorrow. 
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV)
+
+### Day 10: January 12, 2019 
+
+**Today's Progress**: Keep updating my Product Landing Page 
+
+**Thoughts**: I've lost one day yesterday, cause work was insanelly stressful and I haven't got the streight to open my code editors. Today, I've worked more on the colors and design of my product landing page than in everything else, but I had a product idea and could execute that on my HTML. For tomorrow, no more skips and I'll be able to finish it. 
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky), [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV) and .[GitHub].(https://github.com/rakkycurvelo/product-landing-page). 
