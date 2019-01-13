@@ -76,6 +76,14 @@
 
 **Today's Progress**: Keep updating my Product Landing Page 
 
-**Thoughts**: I've lost one day yesterday, cause work was insanely stressful and I haven't got the strength to open my code editors. Today, I've worked more on the colours and design of my product landing page than in everything else, but I had a product idea and could execute that on my HTML. For tomorrow, no more skips and I'll be able to finish it.
+**Thoughts**: I've lost one day yesterday, cause work was insanely stressful and I haven't got the strength to open my code editors. Today, I've worked more on the colours and design of my product landing page than in everything else, but I had a product idea and could execute that on my HTML. 
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky), [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV) and [GitHub](https://github.com/rakkycurvelo/product-landing-page). 
+
+### Day 11: January 13, 2019 
+
+**Today's Progress**: Keep updating my Product Landing Page 
+
+**Thoughts**: CSS work on my landing page project and I found colours, borders and padding. Not sure on how to put my grids and media queries together though. Need a reviewing time.
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky), [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV) and [GitHub](https://github.com/rakkycurvelo/product-landing-page). 
