@@ -87,3 +87,11 @@
 **Thoughts**: CSS work on my landing page project and I found colours, borders and padding. Not sure on how to put my grids and media queries together though. Need a reviewing time.
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky), [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV) and [GitHub](https://github.com/rakkycurvelo/product-landing-page). 
+
+### Day 12: January 15, 2019 
+
+**Today's Progress**: Finished my Product Landing Page 
+
+**Thoughts**: Finished my Product Landing Page and working on some videos from Daniel Shiffman, The Nature of Code. I wish I could be more effective on this. Why am I not putting more time on this challenge?  
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky), [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV) and [GitHub](https://github.com/rakkycurvelo/product-landing-page). 
