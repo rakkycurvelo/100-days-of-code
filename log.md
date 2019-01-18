@@ -95,3 +95,19 @@
 **Thoughts**: Finished my Product Landing Page and working on some videos from Daniel Shiffman, The Nature of Code. I wish I could be more effective on this. Why am I not putting more time on this challenge?  
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky), [CodePen](https://codepen.io/rakkycurvelo/pen/zymKPV) and [GitHub](https://github.com/rakkycurvelo/product-landing-page). 
+
+### Day 13: January 16, 2019 
+
+**Today's Progress**: Starting my Technical Documentation Page
+
+**Thoughts**: I've started to put my technical documentation page together and came across this amazing CSS Grid Template. It's impossible to not keep your page organized when you are familiar with it. This page from MDN helped me a lot and it will be a model for life! <3  
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/VqNwOr) - also, [CSS Grids](https://t.co/T97G3iCcBk) 
+
+### Day 14: January 18, 2019 
+
+**Today's Progress**: Keep working on my Technical Documentation Page
+
+**Thoughts**: Formating HTML and CSS again. I just need to keep doing it to make a memory palace with the process. Also, it's always good to remember some [HTML characters](http://www.whatsmyip.org/html-characters/), right? 
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/VqNwOr). 
