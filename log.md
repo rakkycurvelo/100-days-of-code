@@ -111,3 +111,11 @@
 **Thoughts**: Formating HTML and CSS again. I just need to keep doing it to make a memory palace with the process. Also, it's always good to remember some [HTML characters](http://www.whatsmyip.org/html-characters/), right? 
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/VqNwOr). 
+
+### Day 15: January 19, 2019 
+
+**Today's Progress**: Keep working on my Technical Documentation Page
+
+**Thoughts**: Today was a CSS day.  I've searched for old stuff, fixed some errors on my code and put more style on my technical documentation page. I'm halfway through it now, but, for the first time, I'm not feeling late or anything... just enjoying the moment... 
+
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/VqNwOr). 
