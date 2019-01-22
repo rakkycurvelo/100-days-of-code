@@ -119,3 +119,24 @@
 **Thoughts**: Today was a CSS day.  I've searched for old stuff, fixed some errors on my code and put more style on my technical documentation page. I'm halfway through it now, but, for the first time, I'm not feeling late or anything... just enjoying the moment... 
 
 **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [CodePen](https://codepen.io/rakkycurvelo/pen/VqNwOr). 
+
+### Day 16: January 21, 2019 
+
+**Today's Progress**: Keep working on my Technical Documentation Page
+
+**Thoughts**: Today I've finished styling my page. I want to add some JavaScript on and, since I'm using p5.js as a reference for my documentation, that might be a nice final touch.  
+
+**Link to work:** [CodePen](https://codepen.io/rakkycurvelo/pen/VqNwOr). 
+
+### Day 17: January 22, 2019 
+
+**Today's Progress**: Finished my Technical Documentation Page
+
+**Thoughts**: A good day to finish a page, adding simple p5.js on it. I've used some p5.js reference examples and also checked a tutorial from Daniel Shiffman on how to do it. Here's some of the links that were very useful on doing that so: 
+
+[The Coding Train - CodePen in p5.js - p5.js Tutorial](https://www.youtube.com/watch?time_continue=220&v=5gfUgNpS6kY).
+[GitHub - Processing - p5.js - Positioning your canvas](https://github.com/processing/p5.js/wiki/Positioning-your-canvas).
+[p5.js - Examples](http://p5js.org/examples/).
+
+ **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/VqNwOr). 
+
