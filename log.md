@@ -139,4 +139,22 @@
 [p5.js - Examples](http://p5js.org/examples/).
 
  **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/VqNwOr). 
+ 
+ #################################################################################################################################
+ 
+ ### Day 01: February 03, 2019 
+
+**Today's Progress**: Starting over again, with a Personal Portfolio Page
+
+**Thoughts**: I've spent several days far away from this challenge, first because I was feeling overwhelmed, but most of all cause I'm a procrastination specialist. I'm decided to change that and, therefore, I'll start over again. I'll also keep my old file, cause it's part of my evolution process. 
+
+Today, I've read a chapter of the book "Web Coding & Development for Dummies - All in One", by Paul McFedries and also started to work again on my Portfolio Project, from Free Code Camp. I feel that's the right thing to do, so, let's do it. Below, some links for you guys to check out. 
+
+[Web Coding & Development for Dummies - All in One](https://www.amazon.com/Coding-Development-All-Dummies-Computer/dp/1119473926).
+[Apache Friends - Download XAMMP and get ready to code](https://www.apachefriends.org/index.html).
+[Coolors - A good friend to create and combine color schemes](https://coolors.co/).
+
+ **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/pen/WPpWRG). 
+ 
+ 
 
