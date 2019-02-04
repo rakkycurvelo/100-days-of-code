@@ -156,5 +156,15 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 
  **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/pen/WPpWRG). 
  
+ ### Day 02: February 04, 2019 
+
+**Today's Progress**: Making good progress with my Personal Portfolio Page
+
+**Thoughts**: Good thing of starting over is that I feel even more inspired to keep going. Today, I've focused on CSS and remembered some floats and positioning from previous projects. I kept reading a little of the Web Coding & Development book as well. For tomorrow: finish it and try to get my first Free Code Camp certificate!  
+
+[Web Coding & Development for Dummies - All in One](https://www.amazon.com/Coding-Development-All-Dummies-Computer/dp/1119473926).
+[StackOverflow Tips - Resizing images](https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio).
+
+ **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/WPpWRG). 
  
 
