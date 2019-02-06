@@ -167,4 +167,14 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 
  **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/WPpWRG). 
  
+  ### Day 03: February 06, 2019 
+
+**Today's Progress**: Finishing my Personal Portfolio Page
+
+**Thoughts**: Aaaaaaaahhhhhh!!! Media Queries, I don't like you! 
+
+[Web Coding & Development for Dummies - All in One](https://www.amazon.com/Coding-Development-All-Dummies-Computer/dp/1119473926).
+[StackOverflow Tips - Resizing images](https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio).
+
+ **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/NoaOBR). 
 
