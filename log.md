@@ -167,7 +167,7 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 
  **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/WPpWRG). 
  
-  ### Day 03: February 06, 2019 
+ ### Day 03: February 06, 2019 
 
 **Today's Progress**: Finishing my Personal Portfolio Page
 
@@ -175,6 +175,17 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 
 [Web Coding & Development for Dummies - All in One](https://www.amazon.com/Coding-Development-All-Dummies-Computer/dp/1119473926).
 [StackOverflow Tips - Resizing images](https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio).
+
+ **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/NoaOBR). 
+ 
+  ### Day 04: February 08, 2019 
+
+**Today's Progress**: Finishing my Personal Portfolio Page
+
+**Thoughts**: Still don't like Media Queries, but defo, hate viewports... 
+
+[Web Coding & Development for Dummies - All in One](https://www.amazon.com/Coding-Development-All-Dummies-Computer/dp/1119473926).
+[Trouble with make the height of the welcome section equal to viewport](https://www.freecodecamp.org/forum/t/trouble-with-make-height-of-welcome-section-equal-to-viewport/126609/6).
 
  **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/NoaOBR). 
 
