@@ -188,4 +188,12 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 [Trouble with make the height of the welcome section equal to viewport](https://www.freecodecamp.org/forum/t/trouble-with-make-height-of-welcome-section-equal-to-viewport/126609/6).
 
  **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/NoaOBR). 
+ 
+ ### Day 05: February 10, 2019 
+
+**Today's Progress**: Checking my FreeCodeCamp Projects
+
+**Thoughts**: I forked the FreeCodeCamp Test file and I'm checking all my previous projects and fixing the errors. I thought that I couldn't pass a project with things missing, but, apparently, that's possible, so, before printing my Certificate and exhibit it all around the web, I'll make sure that I did everything right... 
+
+ **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/NoaOBR). 
 
