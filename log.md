@@ -196,4 +196,12 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: I forked the FreeCodeCamp Test file and I'm checking all my previous projects and fixing the errors. I thought that I couldn't pass a project with things missing, but, apparently, that's possible, so, before printing my Certificate and exhibit it all around the web, I'll make sure that I did everything right... 
 
  **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/NoaOBR). 
+ 
+ ### Day 06: February 13, 2019 
+
+**Today's Progress**: Checking my FreeCodeCamp Projects
+
+**Thoughts**: Planning is one of the most essential parts of any project. How can we expect a flawless execution with a poor plan? Reviewing my previous projects, I found some errors and I just discovered that I'll have to redesign one of them because I've used CSS Grids within a project that needed some fixed elements to be displayed. Let's go back to the board! For real, now!  
+
+ **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/NoaOBR). 
 
