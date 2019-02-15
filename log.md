@@ -204,4 +204,12 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: Planning is one of the most essential parts of any project. How can we expect a flawless execution with a poor plan? Reviewing my previous projects, I found some errors and I just discovered that I'll have to redesign one of them because I've used CSS Grids within a project that needed some fixed elements to be displayed. Let's go back to the board! For real, now!  
 
  **Link to work:** [CodePen](https://codepen.io/rakkycurvelo/full/NoaOBR). 
+ 
+ ### Day 07: February 15, 2019 
+
+**Today's Progress**: Working on my portfolio website
+
+**Thoughts**: My idea was start to work step by step on a new layout for my portfolio, but I've end up starting it from scratch and got distracted, so I haven't finished my FreeCodeCamp Projects yet. Gzuis, I need to organise myself.  
+
+ **Link to work:** [Portfolio - Work in Progress](https://rakkycurvelo.com). 
 
