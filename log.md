@@ -212,4 +212,20 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: My idea was start to work step by step on a new layout for my portfolio, but I've end up starting it from scratch and got distracted, so I haven't finished my FreeCodeCamp Projects yet. Gzuis, I need to organise myself.  
 
  **Link to work:** [Portfolio - Work in Progress](https://rakkycurvelo.com). 
+ 
+ ### Day 08: February 16, 2019 
+
+**Today's Progress**: Working on my portfolio website
+
+**Thoughts**: Finished to organise my portfolio in a way in which it makes sense. I've still need to do some ajustments on my CSS, and rely less on Wordpress features, but, it ok for now.  
+
+ **Link to work:** [Portfolio](https://rakkycurvelo.com). 
+ 
+ ### Day 09: February 17, 2019 
+
+**Today's Progress**: CSS practice
+
+**Thoughts**: Today, I'm back to my FreeCodeCamp projects, to practice some CSS and finally get my certificate! 
+
+ **Link to work:** [Free Code Camp](https://codepen.io/rakkycurvelo/pen/NoaOBR). 
 
