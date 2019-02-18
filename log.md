@@ -227,5 +227,13 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 
 **Thoughts**: Today, I'm back to my FreeCodeCamp projects, to practice some CSS and finally get my certificate! 
 
- **Link to work:** [Free Code Camp](https://codepen.io/rakkycurvelo/pen/NoaOBR). 
+ **Link to work:** [Code Pen Project](https://codepen.io/rakkycurvelo/pen/NoaOBR). 
+ 
+ ### Day 10: February 18, 2019 
+
+**Today's Progress**: My first FreeCodeCamp Certificate
+
+**Thoughts**: Ahá! Now I'm happy enough to show this certificate to the world. All my projects are passing the tests (even though I still need to fix some media queries! huauhahuahu). I might start a new CSS course today, but, well, that's a victory, so I better share it, right? 
+
+ **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky). 
 
