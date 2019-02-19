@@ -241,7 +241,7 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 
 **Today's Progress**: Starting a Full-Stack course and JavaScript from FreeCodeCamp 
 
-**Thoughts**: Committed to keeping things going here, I've started training on Lynda.com to become a full stack web-developer. I'm also starting my FreeCodeCamp JavaScript Basics course, witch makes me feel very productive today. 
+**Thoughts**: Committed to keeping things going here, I've started training on Lynda.com to become a full stack web-developer. I'm also starting my FreeCodeCamp JavaScript Basics course, whitch makes me feel very productive today. 
 
  **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [Lynda.com](https://www.lynda.com/). 
 
