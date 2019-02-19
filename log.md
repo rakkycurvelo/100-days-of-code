@@ -236,4 +236,12 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: Ahá! Now I'm happy enough to show this certificate to the world. All my projects are passing the tests (even though I still need to fix some media queries! huauhahuahu). I might start a new CSS course today, but, well, that's a victory, so I better share it, right? 
 
  **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky). 
+ 
+ ### Day 11: February 19, 2019 
+
+**Today's Progress**: Starting a Full-Stack course and JavaScript from FreeCodeCamp 
+
+**Thoughts**: Committed to keeping things going here, I've started training on Lynda.com to become a full stack web-developer. I'm also starting my FreeCodeCamp JavaScript Basics course, witch makes me feel very productive today. 
+
+ **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [Lynda.com](https://www.lynda.com/). 
 
