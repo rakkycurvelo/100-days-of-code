@@ -244,4 +244,12 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: Committed to keeping things going here, I've started training on Lynda.com to become a full stack web-developer. I'm also starting my FreeCodeCamp JavaScript Basics course, whitch makes me feel very productive today. 
 
  **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [Lynda.com](https://www.lynda.com/). 
+ 
+ ### Day 12: February 20, 2019 
+
+**Today's Progress**: Reviewing WebDev Foundations and JavaScript from FreeCodeCamp 
+
+**Thoughts**: I've done a little bit less than I should, but reviewing stuff and concepts is always a great way to get ready for new challenges. I'm also keeping my profile on Free Code Camp active, so... 
+
+ **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky). 
 
