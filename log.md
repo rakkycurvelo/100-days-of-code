@@ -252,4 +252,12 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: I've done a little bit less than I should, but reviewing stuff and concepts is always a great way to get ready for new challenges. I'm also keeping my profile on Free Code Camp active, so... 
 
  **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky). 
+ 
+ ### Day 13: February 22, 2019 
+
+**Today's Progress**: Reviewing JavaScript with FreeCodeCamp and Understanding Programming Foundations 
+
+**Thoughts**: Am I the only one scared by floating-points? What about Machine Language? 
+
+ **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)
 
