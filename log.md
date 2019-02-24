@@ -261,3 +261,10 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 
  **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)
 
+ ### Day 14: February 24, 2019 
+
+**Today's Progress**: Reviewing JavaScript with FreeCodeCamp 
+
+**Thoughts**: Kept reviewing stuff... 
+
+ **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky). 
