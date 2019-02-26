@@ -276,3 +276,11 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: Today I'm experimenting changing a little bit my routine and doing my challenge first thing in the morning... let's see how it goes. Practises of the day were kept reviewing JavaScript and Programming Foundations. 
 
  **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky) and [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)
+ 
+ ### Day 16: February 26, 2019 
+
+**Today's Progress**: Reviewing JavaScript with FreeCodeCamp 
+
+**Thoughts**: Second day changing my routine on doing this challenge and... I FAILED MISERABLY. It's late in the evening and here I am stuck with accessing multi-dimensional arrays with indexes. I guess I need to let it go for a while and try again tomorrow...  
+
+ **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky)  
