@@ -284,3 +284,11 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: Second day changing my routine on doing this challenge and... I FAILED MISERABLY. It's late in the evening and here I am stuck with accessing multi-dimensional arrays with indexes. I guess I need to let it go for a while and try again tomorrow...  
 
  **Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/rakky)  
+ 
+ ### Day 17: February 27, 2019 
+
+**Today's Progress**: Reviewing JavaScript with Lynda.com
+
+**Thoughts**: Third day changing my routine on doing this challenge and here I am, coding during the morning again. Today I decided to go a step back to JavaScript, and I've learned something new: the switch statement! I'm still having a bad time with those multi-dimensional arrays, but I'm four chapters away from them in this Lynda training, so, I might get a break from now.   
+
+ **Link to work:** [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)  
