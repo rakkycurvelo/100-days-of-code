@@ -292,3 +292,12 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: Third day changing my routine on doing this challenge and here I am, coding during the morning again. Today I decided to go a step back to JavaScript, and I've learned something new: the switch statement! I'm still having a bad time with those multi-dimensional arrays, but I'm four chapters away from them in this Lynda training, so, I might get a break from now.   
 
  **Link to work:** [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)  
+ 
+ ### Day 18: February 28, 2019 
+
+**Today's Progress**: Reviewing JavaScript with Lynda.com
+
+**Thoughts**: Morning bird here reviewing JavaScript and surprisingly learning a new loop: the do while loop. I reckon that this is not something that I'll be using a lot, but it's good to know that it exists, to give us some extra options. 
+
+ **Link to work:** [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)  
+
