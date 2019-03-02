@@ -301,3 +301,10 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 
  **Link to work:** [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)  
 
+ ### Day 19: March 2nd, 2019 
+
+**Today's Progress**: Reviewing JavaScript with Lynda.com
+
+**Thoughts**: Arrays. I don't have much to say... 
+
+ **Link to work:** [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)  
