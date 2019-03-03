@@ -308,3 +308,11 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: Arrays. I don't have much to say... 
 
  **Link to work:** [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)  
+ 
+ ### Day 20: March 3rd, 2019 
+
+**Today's Progress**: Get in touch with new programming languages
+
+**Thoughts**: I haven't a clue that C based languages are so vast and so different in their essences, even tought they come from the same source. I found fascinating that we can learn one language and apply some of the knowledge in so many other languages afterwards... 
+
+ **Link to work:** [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)  
