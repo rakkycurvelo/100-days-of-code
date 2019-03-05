@@ -316,3 +316,11 @@ Today, I've read a chapter of the book "Web Coding & Development for Dummies - A
 **Thoughts**: I haven't a clue that C based languages are so vast and so different in their essences, even tought they come from the same source. I found fascinating that we can learn one language and apply some of the knowledge in so many other languages afterwards... 
 
  **Link to work:** [Programming Foundations](https://www.lynda.com/Programming-Foundations-tutorials/)  
+ 
+  ### Day 21: March 5th, 2019 
+
+**Today's Progress**: JavaScript Fundamentals
+
+**Thoughts**: Since I got stuck in my Free Code Camp JS lessons, I think I had to walk a step behind and review some fundamentals... then, here I go!  
+
+ **Link to work:** [JavaScript Fundamentals](https://www.youtube.com/watch?v=YnfwDQ5XYF4&feature=youtu.be) 
