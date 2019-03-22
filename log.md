@@ -23,3 +23,11 @@
 **Thoughts**: having a hard time with JavaScript Multidimensional Arrays With Indexes... 
 
 **Link to work:** [FreeCodingCamp](https://www.freecodecamp.org/rakky), [FreeCodingCamp Guide](https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes/). 
+
+### Day 4: March 22, 2019 
+
+**Today's Progress**: Lynda.com exercises / UX Course 
+
+**Thoughts**: reviewing JavaScript exercises and keep going on a UX Course (that's not exactly coding, but I think is an important part of the process) 
+
+**Link to work:** [UX Foundations](https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html), [JavaScript for Web Designers](https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers-2016-Q3-REVISION/461841-2.html). 
